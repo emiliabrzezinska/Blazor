@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/FirstBlazorApp1.props" />
+</Project>
