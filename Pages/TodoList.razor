@@ -35,13 +35,14 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
 
 
 @code {
-    List<string> todoList = new() {"string1", "string2"};
+    List<string> todoList = new() { "string1", "string2" };
     string newTodoItem = "";
-    
+
     void addTodoItem()
     {
-        if(string.IsNullOrWhiteSpace(newTodoItem) == false )
-        {  todoList.Add(newTodoItem);
+        if (string.IsNullOrWhiteSpace(newTodoItem) == false)
+        {
+            todoList.Add(newTodoItem);
             newTodoItem = "";
         }
     }
@@ -50,4 +51,6 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
     {
         todoList.Remove(todoItemToDelete);
     }
+
+
 }
