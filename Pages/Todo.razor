@@ -1,0 +1,42 @@
+@page "/tasklist"
+@using FirstBlazorApp1.Component
+@using Microsoft.VisualBasic
+
+<PageTitle>TaskList</PageTitle>
+
+<h3>Task List
+    </h3>
+
+@*<h3>Todo (@tasklists.Count(tasklist => !tasklist.IsDone))</h3>*@
+
+<ul>
+      @foreach (var tasklist in tasklists)
+        {
+            <li>@tasklist.Title </li>
+        }
+</ul>
+
+<input  @bind="newTaskList" @bind:event="oninput" placeholder="Write new task"/>
+<input @bind="DueDate" @bind:format="yyyy-MM-dd" placeholder="Due date"/>
+<button @onclick="AddTaskList">Add task</button>
+
+@if (!string.IsNullOrEmpty(newTaskList))
+{
+    <p>@newTaskList Due: @DueDate?.ToShortDateString()</p>
+}
+
+@code {
+    private List<TaskListItem> tasklists = new();
+    private string? newTaskList;
+    private DateTime? DueDate = null;
+
+    private void AddTaskList()
+    {
+        if (!string.IsNullOrWhiteSpace(newTaskList))
+        {
+            tasklists.Add(new TaskListItem { Title = newTaskList });
+            newTaskList = string.Empty;
+        }
+    }
+
+}
