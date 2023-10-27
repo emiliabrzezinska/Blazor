@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/FirstBlazorApp1.csproj",
+      "projectUniqueName": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/FirstBlazorApp1.csproj",
       "projectName": "FirstBlazorApp1",
-      "projectPath": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/FirstBlazorApp1.csproj",
+      "projectPath": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/FirstBlazorApp1.csproj",
       "packagesPath": "/Users/emiliabrzezinska/.nuget/packages/",
-      "outputPath": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/",
+      "outputPath": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emiliabrzezinska/.nuget/NuGet/NuGet.Config"

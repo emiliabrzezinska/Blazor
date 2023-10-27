@@ -29,3 +29,34 @@
 /Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.pdb
 /Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.genruntimeconfig.cache
 /Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/ref/FirstBlazorApp1.dll
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/appsettings.Development.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/appsettings.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/FirstBlazorApp1.staticwebassets.runtime.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/FirstBlazorApp1
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/FirstBlazorApp1.deps.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/FirstBlazorApp1.runtimeconfig.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/FirstBlazorApp1.dll
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/bin/Debug/net7.0/FirstBlazorApp1.pdb
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.AssemblyInfoInputs.cache
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.AssemblyInfo.cs
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.csproj.CoreCompileInputs.cache
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.RazorAssemblyInfo.cache
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.RazorAssemblyInfo.cs
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/staticwebassets/msbuild.FirstBlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/staticwebassets/msbuild.build.FirstBlazorApp1.props
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FirstBlazorApp1.props
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FirstBlazorApp1.props
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/staticwebassets.build.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/staticwebassets.development.json
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/bundle/FirstBlazorApp1.styles.css
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/projectbundle/FirstBlazorApp1.bundle.scp.css
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.dll
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/refint/FirstBlazorApp1.dll
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.pdb
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/FirstBlazorApp1.genruntimeconfig.cache
+/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/ref/FirstBlazorApp1.dll

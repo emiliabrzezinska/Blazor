@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ac+1Kp4LeiGG+kJOIBAIgp2kmPHXTRkQDw7C4zEwe3A=",
+  "Hash": "yz4z/NycVB+10yWK2zmf3SSPk3XXfpNw2SLbfQFiGKk=",
   "Source": "FirstBlazorApp1",
   "BasePath": "_content/FirstBlazorApp1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FirstBlazorApp1/wwwroot",
       "Source": "FirstBlazorApp1",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/bundle/FirstBlazorApp1.styles.css",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/bundle/FirstBlazorApp1.styles.css",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "FirstBlazorApp1.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/bundle/FirstBlazorApp1.styles.css"
+      "OriginalItemSpec": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/bundle/FirstBlazorApp1.styles.css"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/projectbundle/FirstBlazorApp1.bundle.scp.css",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/projectbundle/FirstBlazorApp1.bundle.scp.css",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "FirstBlazorApp1.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/projectbundle/FirstBlazorApp1.bundle.scp.css"
+      "OriginalItemSpec": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/obj/Debug/net7.0/scopedcss/projectbundle/FirstBlazorApp1.bundle.scp.css"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/open-iconic/README.md",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/css/site.css",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/css/site.css",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/favicon.png",
+      "Identity": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/favicon.png",
       "SourceId": "FirstBlazorApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emiliabrzezinska/Desktop/FirstBlazorApp1/wwwroot/",
+      "ContentRoot": "/Users/emiliabrzezinska/Desktop/Projects blazor/FirstBlazorApp1/wwwroot/",
       "BasePath": "_content/FirstBlazorApp1",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
